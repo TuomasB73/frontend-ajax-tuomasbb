@@ -1,0 +1,52 @@
+body {
+    width: 65%;
+    margin: auto;
+    background: azure;
+}
+
+h1, h2 {
+    width: fit-content;
+    margin: 20px auto;
+    font-family: Arial, serif;
+}
+
+form {
+    display: block;
+    width: fit-content;
+    margin: 30px auto;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+}
+
+button {
+    width: 70px;
+    height: 30px;
+}
+
+article {
+    border: 2px solid gray;
+    box-shadow: 0 0 20px 5px lightgray;
+    background-color: #fcf8e1;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+p {
+    margin: 20px;
+    font-family: Arial, serif;
+}
+
+a {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+}
+
+img {
+    display: block;
+    max-width: 210px;
+    margin: 20px auto;
+}
